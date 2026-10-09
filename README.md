@@ -143,7 +143,7 @@ I'm happy to connect with developers, AI/ML enthusiasts, students, and professio
   <a href="https://github.com/Harsh270511">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="ADD_YOUR_LINKEDIN_PROFILE_URL_HERE">
+  <a href="www.linkedin.com/in/harshmaurya27112005">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
